@@ -1,0 +1,74 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://i.pinimg.com/originals/8a/5b/6e/8a5b6e45d0d89a812ed8e28c8f0b3730.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #333;
+    line-height: 1.6;
+}
+
+
+#main-header {
+    background-color: rgba(52, 152, 219, 0.9); 
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.main-title {
+    margin: 0;
+    font-size: 36px;
+}
+
+.tagline {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.intro, .characters, .seasons {
+    padding: 20px;
+    margin: 20px 0; 
+    width: 600px; 
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.characters a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.intro, .characters, .seasons {
+    margin-left: 20px; 
+}
+
+.character {
+    margin-bottom: 20px;
+}
+
+.character-image {
+    float: left;
+    margin-right: 20px;
+    width: 150px;
+}
+
+.character p {
+    clear: both;
+}
+
+
+#main-footer {
+    background-color: rgba(44, 62, 80, 0.9);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#main-footer p {
+    margin: 5px 0;
+}
