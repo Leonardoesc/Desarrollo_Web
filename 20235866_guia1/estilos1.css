@@ -9,15 +9,16 @@ h2 {
     text-decoration: underline;
 }
 
-p {
+p1 {
     color: navy;
     font-weight: bold;
 }
-
-p {
+p2 {
     text-transform: uppercase;
     text-align: justify;
+    color: black;
   }
-p {
+p3 {
     font-size: 12px;
+    text-transform: lowercase;
 }
