@@ -1,0 +1,74 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://scontent.fsal1-1.fna.fbcdn.net/v/t39.30808-6/319433391_1231691131036755_7828235503358800835_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=1Q0CPkU4P0YQ7kNvgHIbHqs&_nc_ht=scontent.fsal1-1.fna&_nc_gid=Ahp-jCGVzcSBNd57t9V93Lb&oh=00_AYC1fRPdhm0ehULGWBt9qx2Rh_Mf9m_wVMWOr1cEh3aCgg&oe=66EC1ADA');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #333;
+    line-height: 1.6;
+}
+
+
+#main-header {
+    background-color: rgba(52, 152, 219, 0.9); 
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.main-title {
+    margin: 0;
+    font-size: 36px;
+}
+
+.tagline {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.infor, .skills, .Estudios {
+    padding: 20px;
+    margin: 20px 0; 
+    width: 600px; 
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.characters a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.infor, .skills, .Estudios {
+    margin-left: 20px; 
+}
+
+.skill {
+    margin-bottom: 20px;
+}
+
+.character-image {
+    float: left;
+    margin-right: 20px;
+    width: 150px;
+}
+
+.skill p {
+    clear: both;
+}
+
+
+#main-footer {
+    background-color: rgba(44, 62, 80, 0.9);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#main-footer p {
+    margin: 5px 0;
+}
