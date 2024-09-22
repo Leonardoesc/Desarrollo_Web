@@ -19,7 +19,7 @@ nav li{
 nav a{
     color: #ddd;
     display: block;
-    padding: 0 2.5em;
+    padding: 0 2.5rem;
     text-decoration: none;
 }
 
@@ -41,6 +41,7 @@ nav>ul>li{
 nav>ul>li>ul{
     position: absolute;
     display: none;
+    width: 161.83px;
 }
 
 nav>ul>li:hover ul{
