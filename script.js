@@ -81,6 +81,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // Cargar la sección de inicio por defecto
     loadSection('inicio');
 });
