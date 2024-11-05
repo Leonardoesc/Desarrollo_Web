@@ -45,6 +45,12 @@ document.addEventListener('DOMContentLoaded', function() {
                 </ul>
             </section>
         `,
+        guia4: `
+        <section class="guia">
+            <h2>Guía 4</h2>
+            <p>Contenido próximamente...</p>
+        </section>
+        `,
         guia5: `
             <section class="guia">
                 <h2>Guía 5</h2>
